@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "T97WdXPIUBx/M5qNgUus7eBhVtLSl2BdpRSxzmVJbTsMKrvrsyS5Bwcw0xYWOcbCbncVcce1q57k3TCuJgF2lA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\turin\\Documents\\Visual Studio 2022\\Project\\CovTracer\\CovTracer\\CovTracer\\CovTracer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\turin\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\turin\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\turin\\.nuget\\packages\\refractored.mvvmhelpers\\1.6.2\\refractored.mvvmhelpers.1.6.2.nupkg.sha512",
+    "C:\\Users\\turin\\.nuget\\packages\\syncfusion.licensing\\19.4.0.48\\syncfusion.licensing.19.4.0.48.nupkg.sha512",
+    "C:\\Users\\turin\\.nuget\\packages\\syncfusion.xamarin.core\\19.4.0.48\\syncfusion.xamarin.core.19.4.0.48.nupkg.sha512",
+    "C:\\Users\\turin\\.nuget\\packages\\syncfusion.xamarin.gridcommon\\19.4.0.48\\syncfusion.xamarin.gridcommon.19.4.0.48.nupkg.sha512",
+    "C:\\Users\\turin\\.nuget\\packages\\syncfusion.xamarin.sfcombobox\\19.4.0.48\\syncfusion.xamarin.sfcombobox.19.4.0.48.nupkg.sha512",
+    "C:\\Users\\turin\\.nuget\\packages\\syncfusion.xamarin.sfdatagrid\\19.4.0.48\\syncfusion.xamarin.sfdatagrid.19.4.0.48.nupkg.sha512",
+    "C:\\Users\\turin\\.nuget\\packages\\syncfusion.xamarin.sfmaps\\19.4.0.48\\syncfusion.xamarin.sfmaps.19.4.0.48.nupkg.sha512",
+    "C:\\Users\\turin\\.nuget\\packages\\syncfusion.xamarin.sfnumerictextbox\\19.4.0.48\\syncfusion.xamarin.sfnumerictextbox.19.4.0.48.nupkg.sha512",
+    "C:\\Users\\turin\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\turin\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512",
+    "C:\\Users\\turin\\.nuget\\packages\\xamarin.essentials\\1.7.1\\xamarin.essentials.1.7.1.nupkg.sha512",
+    "C:\\Users\\turin\\.nuget\\packages\\xamarin.forms\\5.0.0.2337\\xamarin.forms.5.0.0.2337.nupkg.sha512"
+  ],
+  "logs": []
+}

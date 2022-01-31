@@ -1,0 +1,17 @@
+C:\Users\turin\Documents\Visual Studio 2022\Project\CovTracer\CovTracer\CovTracer\bin\Debug\netstandard2.0\CovTracer.deps.json
+C:\Users\turin\Documents\Visual Studio 2022\Project\CovTracer\CovTracer\CovTracer\bin\Debug\netstandard2.0\CovTracer.dll
+C:\Users\turin\Documents\Visual Studio 2022\Project\CovTracer\CovTracer\CovTracer\bin\Debug\netstandard2.0\ref\CovTracer.dll
+C:\Users\turin\Documents\Visual Studio 2022\Project\CovTracer\CovTracer\CovTracer\bin\Debug\netstandard2.0\CovTracer.pdb
+C:\Users\turin\Documents\Visual Studio 2022\Project\CovTracer\CovTracer\CovTracer\obj\Debug\netstandard2.0\CovTracer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\turin\Documents\Visual Studio 2022\Project\CovTracer\CovTracer\CovTracer\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\turin\Documents\Visual Studio 2022\Project\CovTracer\CovTracer\CovTracer\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
+C:\Users\turin\Documents\Visual Studio 2022\Project\CovTracer\CovTracer\CovTracer\obj\Debug\netstandard2.0\CovTracer.AssemblyInfoInputs.cache
+C:\Users\turin\Documents\Visual Studio 2022\Project\CovTracer\CovTracer\CovTracer\obj\Debug\netstandard2.0\CovTracer.AssemblyInfo.cs
+C:\Users\turin\Documents\Visual Studio 2022\Project\CovTracer\CovTracer\CovTracer\obj\Debug\netstandard2.0\CovTracer.csproj.CoreCompileInputs.cache
+C:\Users\turin\Documents\Visual Studio 2022\Project\CovTracer\CovTracer\CovTracer\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\turin\Documents\Visual Studio 2022\Project\CovTracer\CovTracer\CovTracer\obj\Debug\netstandard2.0\CovTracer.dll
+C:\Users\turin\Documents\Visual Studio 2022\Project\CovTracer\CovTracer\CovTracer\obj\Debug\netstandard2.0\ref\CovTracer.dll
+C:\Users\turin\Documents\Visual Studio 2022\Project\CovTracer\CovTracer\CovTracer\obj\Debug\netstandard2.0\CovTracer.pdb
+C:\Users\turin\Documents\Visual Studio 2022\Project\CovTracer\CovTracer\CovTracer\obj\Debug\netstandard2.0\Views\HomePage.xaml.g.cs
+C:\Users\turin\Documents\Visual Studio 2022\Project\CovTracer\CovTracer\CovTracer\obj\Debug\netstandard2.0\Views\TrackedLocationPage.xaml.g.cs
+C:\Users\turin\Documents\Visual Studio 2022\Project\CovTracer\CovTracer\CovTracer\obj\Debug\netstandard2.0\CovTracer.csproj.AssemblyReference.cache
